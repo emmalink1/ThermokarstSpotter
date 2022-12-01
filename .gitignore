@@ -2,8 +2,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,images,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,images,python
 
+# Folders
+Data/
+
 ### Images ###
 # JPEG
+*.tar
 *.jpg
 *.jpeg
 *.jpe
